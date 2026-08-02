@@ -29,7 +29,7 @@ Clinical panic attack dataset stored in Snowflake, containing patient demographi
 - **CALCULATE()** – Modified filter context for KPI calculations.
 
 ### Sample DAX Measures
-```AX
+```DAX
 Age Group =
 SWITCH(
     TRUE(),
@@ -46,7 +46,7 @@ DIVIDE(
         PANIC_ATTACK_DATA[DIZZINESS] = TRUE()
     ),
     COUNTROWS(PANIC_ATTACK_DATA)
-)---
+)```
 
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/deb0707/Panic_attack_Power_Bi_Snowflake_Project/main/Panic_Attack_Power-Bi_Snowflake%20Project.jpg)
