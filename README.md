@@ -47,4 +47,3 @@ DIVIDE(
     ),
     COUNTROWS(PANIC_ATTACK_DATA)
 )
-![Dashboard Screenshot](https://raw.githubusercontent.com/deb0707/Panic_attack_Power_Bi_Snowflake_Project/main/Panic_Attack_Power-Bi_Snowflake%20Project.jpg)
