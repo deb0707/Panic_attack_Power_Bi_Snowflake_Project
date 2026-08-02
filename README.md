@@ -1,3 +1,9 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Warehouse-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-green)
+![DAX](https://img.shields.io/badge/DAX-Power%20BI%20Formula-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
 # Power BI Project – Panic Attack Data Analysis (Snowflake)
 
 ## Problem Statement
